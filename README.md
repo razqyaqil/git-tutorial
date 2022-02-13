@@ -10,4 +10,8 @@ berubah lag
 perubahan ketiga
 
 bingung berubah di perubahan ketiga
-coba commit lg
+coba commit lagi
+lagi
+
+commit ammend
+
