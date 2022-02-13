@@ -3,7 +3,7 @@ git tutorial
 
 created by : rojak
 ft Digital Skola
-<<<<<<< HEAD
+
 
 # ubah di vscode
 berubah lag
@@ -14,4 +14,10 @@ coba commit lagi
 lagi
 
 commit ammend
+
+
+test 1
+ # diubah di VS code
+cek 1
+=======
 
