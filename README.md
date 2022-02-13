@@ -17,7 +17,8 @@ commit ammend
 
 
 test 1
- # diubah di VS code
+ # diubah di VS code branch 1
  cek 1
+ cek 2
 
 
