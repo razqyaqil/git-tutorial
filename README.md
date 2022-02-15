@@ -21,3 +21,4 @@ test 1
  # diubah di VS code
  cek 1
  cek 2
+ ubah lagi dan push git ignore
